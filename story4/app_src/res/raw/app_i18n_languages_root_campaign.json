@@ -1,0 +1,13 @@
+{
+    "modalNotificationDefault": {
+        "title": "C'est mieux avec les notifs"
+    },
+    "modalNotificationEnabled": {
+        "message": "Afin d'être alerté en temps réel et gratuitement, vos alertes SMS sont remplacées par des notifications. Vous pourrez toujours choisir d'ajouter les SMS depuis l'appli."
+    },
+    "modalNotificationDisabled": {
+        "message": "Nous vous recommandons d'activer les notifications pour être alerté en temps réel et gratuitement.",
+        "button": "Activer les notifications",
+        "link": "Ne pas activer"
+    }
+}

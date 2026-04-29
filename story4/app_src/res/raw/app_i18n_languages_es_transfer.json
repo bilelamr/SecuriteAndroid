@@ -1,0 +1,49 @@
+{
+    "addBeneficiary": {
+        "name": "Beneficiario de la transferencia",
+        "sendMail": "Para informar a tu beneficiario (opcional)",
+        "error": {
+            "name": "Por favor introduce un beneficiario de transferencia válido"
+        }
+    },
+    "rro": {
+        "modal": {
+            "later": "Recuerdamelo más tarde",
+            "question": "¿Estás de acuerdo en cancelar la transferencia?",
+            "reason": "Razón: ",
+            "text": "El ordenante ha pedido una solicitud de cancelación:",
+            "title": "Solicitud de cancelación de la transferencia recibida"
+        },
+        "reasons": {
+            "AM09": "Cantidad incorrecta",
+            "AC03": "Beneficiario incorrecto",
+            "CUST": "Cliente: No hay una razón específica"
+        }
+    },
+    "secureAddBeneficiary": {
+        "title": "Confirma autentificandote"
+    },
+    "secureTransfer": {
+        "title": "Confirma autentificandote"
+    },
+    "answerTransferCancellation": {
+        "accept": "<0> Estás a punto de cancelar la transferencia <1>{{label}}</1>, en la cantidad de <3></3> será devuelta al ordenante original</0>",
+        "modal": {
+            "accept": "<0>La solicitud de cancelar la transferencia<1>{{label}}</1> de la cantidad de <3></3> se ha tenido en cuenta",
+            "refuse": "<0>La solicitud de cancelar la transferencia <1>{{label}}</1> en la cantidad de <3></3> ha sido rechazada"
+        },
+        "refuse": "<0>Estás a punto de rechazar la solicitud de cancelación de la transferencia <1>{{label}}</1> en la cantidad de <3></3></0>",
+        "screenTitle": "Solicitud de cancelación de la transferencia recibida"
+    },
+    "transferSms": {
+        "screenTitle": "Transferencia por SMS",
+        "searchInDirectory": "Buscar en mis contactos",
+        "numberPhone": "Número de teléfono del beneficiario Nickel",
+        "searchNickelAccount": "Buscar la cuenta Nickel",
+        "modalSuccess": {
+            "title": "Beneficiario Nickel encontrado",
+            "doTransfer": "Realizar una transferencia"
+        },
+        "searchContact": "Buscar un contacto"
+    }
+}

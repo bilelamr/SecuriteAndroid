@@ -1,0 +1,50 @@
+{
+    "addBeneficiary": {
+        "name": "Bénéficiaire du virement",
+        "sendMail": "Pour prévenir votre bénéficaire (facultatif)",
+        "error": {
+            "name": "Veuillez saisir un bénéficiaire du virement valide"
+        }
+    },
+    "rro": {
+        "modal": {
+            "later": "Me le rappeler plus tard",
+            "question": "Acceptez-vous d'annuler le virement ?",
+            "reason": "Motif : ",
+            "text": "Une demande d'annulation a été demandée par l'émetteur :",
+            "title": "Demande d'annulation de virement reçu"
+        },
+        "reasons": {
+            "AM09": "Montant Incorrect",
+            "AC03": "Bénéficiaire incorrect",
+            "CUST": "Customer : Sans raison spécifique"
+        }
+    },
+    "secureAddBeneficiary": {
+        "title": "Confirmer en vous authentifiant"
+    },
+    "secureTransfer": {
+        "title": "Confirmer en vous authentifiant"
+    },
+    "answerTransferCancellation": {
+        "accept": "<0>Vous êtes sur le point d'annuler le virement <1>{{label}}</1>, la somme de <3></3> va être renvoyé à l'émetteur initial</0>",
+        "modal": {
+            "accept": "<0>La demande d'annulation du virement <1>{{label}}</1> au montant de <3></3> a bien été prise en compte",
+            "refuse": "<0>La demande d'annulation du virement <1>{{label}}</1> au montant de <3></3> a bien été refusée"
+        },
+        "refuse": "<0>Vous êtes sur le point de refuser la demande d'annulation du virement <1>{{label}}</1> au montant de <3></3></0>",
+
+        "screenTitle": "Demande d'annulation de virement reçu"
+    },
+    "transferSms": {
+        "screenTitle": "Virement par SMS",
+        "searchInDirectory": "Rechercher dans mon répertoire",
+        "numberPhone": "Numéro de téléphone du bénéficiaire Nickel",
+        "searchNickelAccount": "Rechercher le compte Nickel",
+        "modalSuccess": {
+            "title": "Bénéficiaire Nickel trouvé",
+            "doTransfer": "Faire un virement"
+        },
+        "searchContact": "Chercher un contact"
+    }
+}

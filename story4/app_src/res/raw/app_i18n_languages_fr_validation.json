@@ -1,0 +1,5 @@
+{
+  "NO_BIRTHDATE_USE": "Vous ne pouvez pas utiliser votre date d'anniversaire",
+  "IDENTICAL_NUMBER": "Vous ne pouvez pas utiliser plus de 4 fois le même chiffre",
+  "SUITE_NUMBERS": "Vous ne pouvez pas utiliser de suite logique"
+}

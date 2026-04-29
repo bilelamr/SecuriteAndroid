@@ -1,0 +1,20 @@
+{
+    "category": {
+        "label": "Catégorie",
+        "placeholder": "Sélectionner une catégorie"
+    },
+    "type": {
+        "label": "Type d'opération",
+        "placeholder": "Sélectionner un type"
+    },
+    "date": {
+        "label": "Date",
+        "placeholder": {
+            "from": "De",
+            "to": "À"
+        }
+    },
+    "label": {
+        "placeholder": "Rechercher une opération"
+    }
+}
