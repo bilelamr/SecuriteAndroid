@@ -1,0 +1,59 @@
+{
+    "answerTransferCancellationFailed": {
+        "title": "Error validación de la respuesta"
+    },
+    "cardPinExceededNumber": {
+        "title": "Envío imposible",
+        "message": "Dos envíos permitidos por mes. No te cobraremos 1 €."
+    },
+    "challenge": {
+        "title": "Error verificación del código",
+        "message": "Por favor vuelve a introducir el código"
+    },
+    "checkPhoneNumberFailed": {
+        "title": "Beneficiario desconocido",
+        "message": "Este número no está asociado a una cuenta Nickel"
+    },
+    "chromeAlreadyOrdered": {
+        "title": "Tu pedido de tarjeta Nickel Chrome ya está en curso"
+    },
+    "lockCardFailed": {
+        "title": "Cancelación imposible",
+        "message": "Cancelación de la tarjeta imposible"
+    },
+    "orderCustomCardNickelChromeFailed": {
+        "title": "Pedido no finalizado",
+        "message": "Tu pedido de tarjeta Nickel Chrome no ha tenido éxito"
+    },
+    "sendCardPinFailed": {
+        "title": "Envío imposible",
+        "message": "Tu solicitud para enviar el código PIN por SMS no ha tenido éxito. No te cobraremos 1 €."
+    },
+    "sendCardReplacementCodeFailed": {
+        "title": "Error envío SMS",
+        "message": "El código SMS no ha podido ser enviado. Por favor, intenta de nuevo en unos minutos."
+    },
+    "getDetailsFailed": {
+        "title": "Error de recuperación del IBAN"
+    },
+    "getAllBeneficiariesFailed": {
+        "title": "Error de la carga de los beneficiarios"
+    },
+    "getCustomCardInformationNickelChromeFailed": {
+        "title": "Error de recuperación de la información Nickel Chrome"
+    },
+    "getUserProfileFailed": {
+        "title": "Error de recuperación del perfil"
+    },
+    "AxiosError": {
+        "title": "Un error ha ocurrido"
+    },
+    "DefaultError": {
+        "title": "Un error ha ocurrido"
+    },
+    "app-version-too-low": "La versión mínima permitida es {{AppMinimalVersion}}, tienes la versión {{AppVersion}}.\nDebes actualizar la aplicación",
+    "insufficient-network": "Red insuficiente",
+    "insufficient-network-try-later": "Por favor conéctate a través de una red 4G o wifi.\nSi es así, el problema puede estar en nuestro servidor, intenta de nuevo más tarde.",
+    "update": "Actualización",
+    "go-to-store-to-keep-app-up-date": "Actualizar"
+}

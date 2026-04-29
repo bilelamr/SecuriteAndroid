@@ -1,0 +1,18 @@
+{
+    "buttonOK": "OK",
+    "forbidAllPayments": {
+        "text": "Tu tarjeta está temporalmente bloqueada"
+    },
+    "classicError": {
+        "text": "Ha ocurrido un error."
+    },
+    "cardPreferences": {
+        "text": "Se ha producido un error al actualizar tus preferencias."
+    },
+    "editUserProfileUnselectable": {
+        "text": "De acuerdo con nuestras Condiciones Generales y Tarifas, Nickel no puede ser utilizado con fines profesionales (sistema autónomo incluido)"
+    },
+    "nickelChromeInsufficientBalance": {
+        "text": "Tu Saldo es insuficiente - {{amount}}€ min"
+    }
+}

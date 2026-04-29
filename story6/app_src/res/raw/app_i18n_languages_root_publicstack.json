@@ -1,0 +1,28 @@
+{
+    "accessCode": {
+        "paragraph2": "Pour en créer un nouveau, rendez-vous sur mon.compte-nickel.fr depuis un ordinateur"
+    },
+    "auth": {
+        "welcome": "Bienvenue dans l'espace client Nickel",
+        "login": "Me connecter",
+        "noCustomerYet": "Pas encore client ?"
+    },
+    "login": {
+        "createAccessCode": "Choisissez votre code d'accès",
+        "doUpAccessCode": "Retapez votre code d'accès",
+        "yourAccessCode": "Votre code d'accès",
+        "noPassword": "Créer un compte",
+        "lastName": "Nom de famille",
+        "sixNumbers": "6 chiffres",
+        "error": {
+            "lastname": "Saisissez votre nom de famille"
+        }
+    },
+    "oppose": {
+        "tel": "Tél : 01 76 49 48 10"
+    },
+    "version": "V{{appVersion}}",
+    "whereIsMyId": {
+        "screenTitle": "Où se trouve mon identifiant ?"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "app-nickel-autorisation": "Autorización para la applicación Nickel",
+    "app-nickel-needs-access-to-contacts": "La applicación Nickel quiere tener acceso à tus contactos",
+    "change-device-config-to-access-contacts": "Cambia la configuración del teléfono para permitir que la aplicación Nickel acceda a tus contactos.",
+    "app-nickel-needs-access-to-device-storage": "La applicación Nickel necesita tu autorización para registrar tus extractos de cuenta en tu teléfono",
+    "change-device-config-to-access-device-storage": "Cambia la configuración de tu teléfono para permitir que la applicación Nickel registre tus extractos de cuenta en tu teléfono."
+}

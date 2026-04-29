@@ -1,0 +1,59 @@
+{
+    "answerTransferCancellationFailed": {
+        "title": "Échec validation de la réponse"
+    },
+    "cardPinExceededNumber": {
+        "title": "Envoi impossible",
+        "message": "Deux envois autorisés par mois. Vous ne serez pas facturé 1€."
+    },
+    "challenge": {
+        "title": "Echec vérification du code",
+        "message": "Veuillez ressaisir le code"
+    },
+    "checkPhoneNumberFailed": {
+        "title": "Bénéficiaire inconnu",
+        "message": "Ce numéro n'est pas associé à un compte Nickel"
+    },
+    "chromeAlreadyOrdered": {
+        "title": "La commande d'une carte Nickel Chrome est déjà en cours"
+    },
+    "lockCardFailed": {
+        "title": "Opposition impossible",
+        "message": "Opposition de la carte impossible"
+    },
+    "orderCustomCardNickelChromeFailed": {
+        "title": "Commande échouée",
+        "message": "Votre commande de carte Nickel Chrome n'a pas pu aboutir"
+    },
+    "sendCardPinFailed": {
+        "title": "Envoi impossible",
+        "message": "Votre demande d'envoi de code PIN par SMS n'a pas pu aboutir. Vous ne serez pas facturé 1€."
+    },
+    "sendCardReplacementCodeFailed": {
+        "title": "Échec envoi SMS",
+        "message": "Le code SMS n'a pas pu être envoyé. Veuillez réessayer dans quelques minutes."
+    },
+    "getDetailsFailed": {
+        "title": "Échec de récupération des informations du RIB"
+    },
+    "getAllBeneficiariesFailed": {
+        "title": "Échec du chargement des bénéficiaires"
+    },
+    "getCustomCardInformationNickelChromeFailed": {
+        "title": "Échec de récupération des informations Nickel Chrome"
+    },
+    "getUserProfileFailed": {
+        "title": "Échec de récupération du profil"
+    },
+    "AxiosError": {
+        "title": "Une erreur est survenue"
+    },
+    "DefaultError": {
+        "title": "Une erreur est survenue"
+    },
+    "app-version-too-low": "Une nouvelle version est disponible. Les versions précédentes ont été désactivées.\n Vous devez effectuer une mise à jour de l’application.",
+    "insufficient-network": "Réseau insuffisant",
+    "insufficient-network-try-later": "Une erreur est survenue. Veuillez réessayer plus tard.",
+    "update": "Mise à jour",
+    "go-to-store-to-keep-app-up-date": "Mettre à jour"
+}

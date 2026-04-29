@@ -1,0 +1,28 @@
+{
+    "accessCode": {
+        "paragraph2": "Para crear un nuevo, inicia sesión en app.nickel.eu/es desde un ordenador"
+    },
+    "auth": {
+        "welcome": "Bienvenido a tu área de cliente Nickel",
+        "login": "Entrar",
+        "noCustomerYet": "¿Todavía no eres cliente?"
+    },
+    "login": {
+        "createAccessCode": "Elige tu clave de acceso",
+        "doUpAccessCode": "Escribe de nuevo tu clave de acceso",
+        "yourAccessCode": "Tu clave de acceso",
+        "noPassword": "Crear una cuenta",
+        "lastName": "apellidos",
+        "sixNumbers": "6 dígitos",
+        "error": {
+            "lastname": "Introduce tus apellidos"
+        }
+    },
+    "oppose": {
+        "tel": "Tel: +34 917 877 117"
+    },
+    "version": "{{appVersion}}",
+    "whereIsMyId": {
+        "screenTitle": "¿Donde puedo encontrar mi código de barras?"
+    }
+}

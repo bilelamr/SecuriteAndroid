@@ -1,0 +1,20 @@
+{
+    "category": {
+        "label": "Categoría",
+        "placeholder": "Selecciona una categoría"
+    },
+    "type": {
+        "label": "Tipo de movimiento",
+        "placeholder": "Selecciona un tipo"
+    },
+    "date": {
+        "label": "Fecha de pedido",
+        "placeholder": {
+            "from": "De",
+            "to": "Para"
+        }
+    },
+    "label": {
+        "placeholder": "Buscar movimiento"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "app-nickel-autorisation": "Autorisation d'application Nickel",
+    "app-nickel-needs-access-to-contacts": "L'application Nickel souhaite avoir accès à vos contacts",
+    "change-device-config-to-access-contacts": "Modifiez les paramètres de votre téléphone pour permettre à l'app Nickel d'accéder à vos contacts.",
+    "app-nickel-needs-access-to-device-storage": "L'application Nickel a besoin de votre autorisation pour enregistrer vos relevés sur votre téléphone",
+    "change-device-config-to-access-device-storage": "Modifiez les paramètres de votre téléphone pour permettre à l'app Nickel d'enregistrer vos relevés sur votre téléphone."
+}

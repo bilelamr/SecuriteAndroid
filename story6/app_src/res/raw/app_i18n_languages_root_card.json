@@ -1,0 +1,70 @@
+{
+    "cardMenuItems": {
+        "securityMenu": {
+            "sendPIN": {
+                "title": "M’envoyer mon code PIN par SMS",
+                "phoneNumber": "au {{phoneNumber}}"
+            }
+        },
+        "paymentMenu": {
+            "limit": "Gérer mes plafonds"
+        },
+        "chromeMenu": {
+            "NOT_CHROME": "Découvrir la carte Nickel Chrome",
+            "CHROME": "Commander une nouvelle carte Nickel Chrome"
+        }
+    },
+    "nickelChrome": {
+        "screenTitle": "Commander une carte Nickel Chrome",
+        "buy": "Commander ma carte Nickel Chrome",
+        "errors": {
+            "insufficientBalance": "Solde insuffisant"
+        }
+    },
+    "nickelChromeChoice": {
+        "index1": {
+            "title": "Je choisis mon modèle"
+        },
+        "index2": {
+            "title": "Je choisis comment apparaît mon nom"
+        },
+        "index3": {
+            "title": "Je vérifie mon adresse"
+        },
+        "index4": {
+            "title": "Je vérifie mon numéro de téléphone"
+        },
+        "changeAddress": "J'ai changé d'adresse",
+        "changePhoneNumber": "J'ai changé de numéro de téléphone",
+        "modalAddressTitle": "Modifier mon adresse",
+        "modalMessage": "Veuillez vous rendre sur le site mon.compte-nickel.fr, rubrique « Votre compte », depuis votre ordinateur",
+        "modalPhoneNumberTitle": "Modifier mon numéro de téléphone",
+        "modalLabelAction": "J'ai compris"
+    },
+    "nickelChromeSummary": {
+        "address": "Adresse",
+        "cguChromeLink": "http://compte-nickel.fr/_files/conditions-particulieres-nickel-chrome.pdf",
+        "cguChrome": "Conditions particulières et tarifaires de Nickel",
+        "checkBoxCGU": "J'ai lu et j'accepte les",
+        "name": "Porteur de la carte",
+        "nameCard": {
+            "CHROME_SILVER": "Nickel Chrome Argent",
+            "CHROME_BLACK": "Nickel Chrome Noir",
+            "CHROME_GOLD": "Nickel Chrome Or",
+            "CHROME_ORANGE": "Nickel Chrome Orange"
+        },
+        "phoneNumber": "Numéro de téléphone",
+        "title": "Récapitulatif"
+    },
+    "opposition": {
+        "screenTitle": "Opposition de la carte",
+        "validateCGU": "J'ai conscience que cette action est immédiate et irréversible. Conformément aux Conditions Générales et Tarifaires de Nickel, le remplacement de carte est facturé 10€",
+        "linkValidateCGU": "Conditions générales et tarifaires de Nickel."
+    },
+    "resultOppose": {
+        "screenTitle": "Opposition de la carte",
+        "replacementCode": "Vous avez reçu un code de remplacement",
+        "resendReplacementCode": "Me renvoyer le code par SMS",
+        "smsTo": "par SMS au {{phoneNumber}}"
+    }
+}

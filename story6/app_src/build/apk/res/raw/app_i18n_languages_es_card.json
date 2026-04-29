@@ -1,0 +1,69 @@
+{
+    "cardMenuItems": {
+        "securityMenu": {
+            "sendPIN": {
+                "title": "Enviarme el código PIN por SMS",
+                "phoneNumber": "al {{phoneNumber}}"
+            }
+        },
+        "paymentMenu": {
+            "limit": "Cambiar límites tarjeta"
+        },
+        "chromeMenu": {
+            "NOT_CHROME": "Descubre la tarjeta Nickel Premium",
+            "CHROME": "Pedir una nueva tarjeta Nickel Chrome"
+        }
+    },
+    "nickelChrome": {
+        "screenTitle": "Pedir una tarjeta Nickel Chrome",
+        "buy": "Pedir mi tarjeta Nickel Premium",
+        "errors": {
+            "insufficientBalance": "Saldo insuficiente"
+        }
+    },
+    "nickelChromeChoice": {
+        "index1": {
+            "title": "Elijo mi modelo"
+        },
+        "index2": {
+            "title": "Elijo cómo aparece mis nombres"
+        },
+        "index3": {
+            "title": "Compruebo mi dirección"
+        },
+        "index4": {
+            "title": "Compruebo mi número de teléfono"
+        },
+        "changeAddress": "Cambié de dirección",
+        "changePhoneNumber": "Cambié mi número de teléfono",
+        "modalAddressTitle": "Cambiar mi dirección",
+        "modalMessage": "Por favor, entra en tu área de cliente en app.nickel.eu/es, sección \"Tu cuenta\", desde tu ordenador",
+        "modalPhoneNumberTitle": "Cambiar mi número de teléfono",
+        "modalLabelAction": "He entendido"
+    },
+    "nickelChromeSummary": {
+        "address": "Dirección",
+        "cguChrome": "Condiciones y tarifas especiales de Nickel",
+        "checkBoxCGU": "He leído y acepto las",
+        "name": "Titular de la tarjeta",
+        "nameCard": {
+            "CHROME_SILVER": "Nickel Premium Plata",
+            "CHROME_BLACK": "Nickel Premium Negro",
+            "CHROME_GOLD": "Nickel Premium Oro",
+            "CHROME_ORANGE": "Nickel Premium Naranja"
+        },
+        "phoneNumber": "Número de teléfono",
+        "title": "Resumen"
+    },
+    "opposition": {
+        "screenTitle": "Oposición a la tarjeta",
+        "validateCGU": "Soy consciente de que esta acción es inmediata e irreversible. De acuerdo con las Condiciones Generales y Tarifas de Nickel, la sustitución de la tarjeta se cobra 10 euros.",
+        "linkValidateCGU": "Condiciones generales y tarifas de Nickel."
+    },
+    "resultOppose": {
+        "screenTitle": "Oposición a la tarjeta",
+        "replacementCode": "Has recibido un código de sustitución",
+        "resendReplacementCode": "Recibir el código por SMS",
+        "smsTo": "por SMS al {{phoneNumber}}"
+    }
+}
