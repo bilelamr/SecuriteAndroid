@@ -5,7 +5,7 @@
 > **AFIN DE** présenter findings, preuves et recommandations
 
 ## Livrable
-- [`rapport_final.pdf`](rapport_final.pdf) — rapport complet, signé par les 4 auteurs.
+- Rapport.pdf — rapport complet, signé par les 4 auteurs.
 - Source de génération : `rapport/build_report.py` (ReportLab).
 
 ## Structure
